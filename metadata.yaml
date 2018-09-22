@@ -1,0 +1,38 @@
+_repo: Satuja-ja-tarinoita-VI_55943
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Talvio, Maila
+    alias: Mikkola, Maila Winter
+    birthdate: 1871
+    deathdate: 1951
+    gutenberg_agent_id: '39128'
+    url: http://www.gutenberg.org/2009/agents/39128
+creator:
+  author:
+    agent_name: Andersen, H. C. (Hans Christian)
+    alias: Andersen, Hans Christian
+    birthdate: 1805
+    deathdate: 1875
+    gutenberg_agent_id: '2298'
+    url: http://www.gutenberg.org/2009/agents/2298
+    wikipedia: http://en.wikipedia.org/wiki/Hans_Christian_Andersen
+description: ''
+gutenberg_issued: '2017-11-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55943'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Fairy tales'
+- GITenberg
+tableOfContents: Anna-Liisa -- Lasten leperrystä -- Palanen helminauhaa -- Kynä ja
+  mustepullo -- Lapsi haudassa -- Tarhakukko ja viirikukko -- "Kaunis!" -- Kertomus
+  dyyneiltä -- Marionettiennäyttäjä -- Kaksi veljestä -- Vanha kirkonkello -- Kaksitoista
+  postivaunuissa.
+title: Satuja ja tarinoita VI
+url: http://www.gutenberg.org/ebooks/55943
